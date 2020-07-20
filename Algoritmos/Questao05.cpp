@@ -3,8 +3,10 @@
 
 int main(){
 	
-	float num1=0.00, num2=0.00, med=0.00, sub=0.00, div=0.00, mult=0.00;
+	float num1=0.00, num2=0.00;
 	int opc=0;
+	float med=0.00, sub=0.00, div=0.00, mult=0.00;
+	
 	
 	printf("\nInsira um numero: ");
 	scanf("%f", &num1);

@@ -2,18 +2,16 @@
 #include<stdlib.h>
 
 int main(){
-	float nota1,nota2,nota3,nota4,media_aluno;
+	float nota1=0.00,nota2=0.00,nota3=0.00,nota4=0.00;
+	float media_aluno=0.00;
 	
 	printf("Insira as notas:\n");
 	printf("NOTA 1: ");
 	scanf("%f",&nota1);
-    
 	printf("NOTA 2: ");
 	scanf("%f",&nota2);
-	
 	printf("NOTA 3: ");
 	scanf("%f",&nota3);
-	
 	printf("NOTA 4: ");
 	scanf("%f",&nota4);
 	
